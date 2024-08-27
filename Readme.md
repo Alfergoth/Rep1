@@ -1,6 +1,6 @@
 # Project Name
 
-![Project Logo]([https://via.placeholder.com/150](https://github.com/Alfergoth/Rep1/blob/main/believe.png)) <!-- Replace with your project logo if applicable -->
+![Project Logo](https://github.com/Alfergoth/Rep1/blob/main/believe.png) <!-- Replace with your project logo if applicable -->
 
 ## Overview
 
